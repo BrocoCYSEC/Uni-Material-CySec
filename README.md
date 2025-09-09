@@ -1,6 +1,6 @@
-# Broco's Uni Material!
+# Broco's Uni Materials!
 
-Welcome to a collection of all the material of my Cybersecurity Master Degree at the University of Pisa.
+Welcome to a collection of all the materials of my Cybersecurity Master Degree at the University of Pisa.
 
 ## What does this repository contains?
 
@@ -16,13 +16,14 @@ Also note that, when you see empty slides (no written notes or highlighting) in 
 
 Some notes or exercises were taken in italian, but this applies to the vast minority of the cases. I apologize for the inconvenience for any international students.
 
-## Find the material useful or want to share any feedback?
+## Did you find the materials useful or want to share any feedback?
 
 If you want to share a feedback, you can contact me directly on brocolaco5678@gmail.com.
 
-If you found the material useful and would like to thank me, you can make a donation to support my nerdy hobbies: https://www.paypal.me/giovannid1717
+If you found the materials useful and would like to thank me, you can make a donation to support my nerdy hobbies: https://www.paypal.me/giovannid1717
 
 Thank you! :)
+
 
 
 
