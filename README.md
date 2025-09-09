@@ -10,7 +10,7 @@ Of course, I do not own any of the slides as they were made by the professors of
 
 ## How do I interpret the notes?
 
-In some cases, the notes are divided in Weekly clusters. If you want to go in chronological order, follow the indexes on the file names. For example, the first PDF of the weekly lecture will be named "1 Lecture_Name.pdf". If multiple PDFs were presented during a lecture, you will find an enumeration like "1.1 Lecture_Name.pdf" and "1.2 Lecture_Name.pdf".
+In some cases, the notes are divided in Weekly Clusters. If you want to go in chronological order, follow the indexes on the file names. For example, the first PDF of the weekly lectures will be named "1 First_Lecture_Name.pdf", the second "2 Second_Lecture_Name.pdf". If multiple PDFs were presented during a lecture, you will find an enumeration like "1.1 Lecture_Name.pdf" and "1.2 Lecture_Name.pdf".
 
 Also note that, when you see empty slides (no written notes or highlighting) in the PDFs, this means that they were either skipped or they are annotated in another PDF (this applies to the Weekly clusters divided notes). This mainly happens when a PDF was started in one lecture and ended in the next or the following ones.
 
@@ -23,6 +23,7 @@ If you want to share a feedback, you can contact me directly on brocolaco5678@gm
 If you found the material useful and would like to thank me, you can make a donation to support my nerdy hobbies: https://www.paypal.me/giovannid1717
 
 Thank you! :)
+
 
 
 
