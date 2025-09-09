@@ -22,6 +22,7 @@ If you want to share feedbacks, you can contact me directly on brocolaco5678@gma
 
 If you found the material useful and would like to thank me, you can make a donation to support my nerdy hobbies: https://www.paypal.me/giovannid1717
 
-Thank you!
+Thank you! :)
+
 
 
