@@ -4,7 +4,7 @@ Welcome to a collection of all the material collected in my Cybersecurity Master
 
 ## What does this repository contains?
 
-On this repository, you will find all the notes I took during classes, written directly on the slides provided by the professors. For certain courses, you will also find exercises I did to prepare for written exams, or links to the repositories of projects that were made by me and other colleagues.
+On this repository, you will find all the notes I took during classes held in 2024-2025, written directly on the slides provided by the professors. For certain courses, you will also find exercises I did to prepare for written exams, or links to the repositories of projects that were made by me and other colleagues.
 
 Of course, I do not own the slides as they were made by the professors of the courses. If you are their creator and want the notes removed, you can contact me at brocolaco5678@gmail.com. The material has been published just to offer help to fellow students of the course.
 
@@ -23,6 +23,7 @@ If you want to share feedbacks, you can contact me directly on brocolaco5678@gma
 If you found the material useful and would like to thank me, you can make a donation to support my nerdy hobbies: https://www.paypal.me/giovannid1717
 
 Thank you! :)
+
 
 
 
