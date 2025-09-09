@@ -10,7 +10,7 @@ Of course, I do not own the slides as they were made by the professors of the co
 ## How do I interpret the notes?
 
 In some cases, the notes are divided in Weekly clusters. If you want to go in chronological order, follow the indexes of the file. For example, the first PDF of the lecture will be named "1 Lecture_Name.pdf". If multiple PDFs were presented during a lecture, you will find an enumeration like "1.1 Lecture_Name.pdf" and "1.2 Lecture_Name.pdf".
-Also note that, when you see empty slides (no notes or highlighting), the slides were either skipped or they are annotated in another PDF (this applies to the Weekly clusters divided notes). This mainly happens when a PDF was started in one lecture and ended in the next or the following ones. 
+Also note that, when you see empty slides (no notes or highlighting), the slides were either skipped or they are annotated in another PDF (this applies to the Weekly clusters divided notes). This mainly happens when a PDF was started in one lecture and ended in the next or the following ones.
 Note that some notes or exercises were taken in italian, but this is the vast minority of the cases. I apologize for the inconvenience for any international student.
 
 ## Find the material useful or want to share feedbacks?
@@ -18,3 +18,4 @@ Note that some notes or exercises were taken in italian, but this is the vast mi
 If you want to share feedbacks, you can contact me directly on brocolaco5678@gmail.com.
 If you found the material useful and would like to thank me, you can make a donation to support my nerdy hobbies: https://www.paypal.me/giovannid1717
 Thank you!
+
